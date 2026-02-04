@@ -1,0 +1,17 @@
+# virtual environment
+venv/
+HDAvenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# data (raw data usually not pushed)
+data/raw/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
